@@ -1,7 +1,16 @@
-# DO NOT CHANGE THIS 
-# All files are ignored to prevent students/JupyterLab git
-# extension from accidentally staging things and breaking nbgitpuller
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
 
-*
-*/
-!.gitignore
+# Virtual environments
+venv/
+.env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
