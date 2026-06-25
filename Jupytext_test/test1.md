@@ -42,11 +42,11 @@ print("testing")
 ```
 
 ```python
-print("edit1")
+
 ```
 
 ```python
-200+2000
+
 ```
 
 ```python
